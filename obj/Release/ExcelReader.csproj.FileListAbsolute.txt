@@ -1,0 +1,19 @@
+c:\users\andress\source\repos\ExcelReader\ExcelReader\bin\Release\ExcelReader.pdb
+c:\users\andress\source\repos\ExcelReader\ExcelReader\bin\Release\NPOI.OpenXmlFormats.dll
+c:\users\andress\source\repos\ExcelReader\ExcelReader\obj\Release\ExcelReader.csprojResolveAssemblyReference.cache
+c:\users\andress\source\repos\ExcelReader\ExcelReader\obj\Release\ExcelReader.csproj.CoreCompileInputs.cache
+c:\users\andress\source\repos\ExcelReader\ExcelReader\obj\Release\ExcelReader.pdb
+C:\Users\AndresS\source\repos\ExcelReader\ExcelReader\bin\Release\LumenWorks.Framework.IO.dll
+C:\Users\AndresS\source\repos\ExcelReader\ExcelReader\bin\Release\NPOI.dll
+C:\Users\AndresS\source\repos\ExcelReader\ExcelReader\bin\Release\NPOI.OOXML.dll
+C:\Users\AndresS\source\repos\ExcelReader\ExcelReader\bin\Release\NPOI.OpenXml4Net.dll
+C:\Users\AndresS\source\repos\ExcelReader\ExcelReader\bin\Release\LumenWorks.Framework.IO.xml
+C:\Users\AndresS\source\repos\ExcelReader\ExcelReader\bin\Release\ExcelReader.dll
+C:\Users\AndresS\source\repos\ExcelReader\ExcelReader\obj\Release\ExcelReader.dll
+\\segvml088\Code\Component Library\ExcelReader\ExcelReader\bin\Release\ExcelReader.dll
+\\segvml088\Code\Component Library\ExcelReader\ExcelReader\bin\Release\ExcelReader.pdb
+\\segvml088\Code\Component Library\ExcelReader\ExcelReader\bin\Release\LumenWorks.Framework.IO.xml
+\\segvml088\Code\Component Library\ExcelReader\ExcelReader\obj\Release\ExcelReader.csprojAssemblyReference.cache
+\\segvml088\Code\Component Library\ExcelReader\ExcelReader\obj\Release\ExcelReader.csproj.CopyComplete
+\\segvml088\Code\Component Library\ExcelReader\ExcelReader\obj\Release\ExcelReader.dll
+\\segvml088\Code\Component Library\ExcelReader\ExcelReader\obj\Release\ExcelReader.pdb

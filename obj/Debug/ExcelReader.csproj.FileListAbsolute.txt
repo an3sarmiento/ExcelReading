@@ -1,0 +1,21 @@
+C:\Users\AndresS\source\repos\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csproj.CoreCompileInputs.cache
+C:\Users\AndresS\source\repos\ExcelReader\ExcelReader\bin\Debug\ExcelReader.pdb
+C:\Users\AndresS\source\repos\ExcelReader\ExcelReader\bin\Debug\NPOI.dll
+C:\Users\AndresS\source\repos\ExcelReader\ExcelReader\bin\Debug\NPOI.OOXML.dll
+C:\Users\AndresS\source\repos\ExcelReader\ExcelReader\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\AndresS\source\repos\ExcelReader\ExcelReader\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\AndresS\source\repos\ExcelReader\ExcelReader\obj\Debug\ExcelReader.pdb
+C:\Users\AndresS\source\repos\ExcelReader\ExcelReader\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\AndresS\source\repos\ExcelReader\ExcelReader\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\AndresS\source\repos\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csprojResolveAssemblyReference.cache
+C:\Users\AndresS\source\repos\ExcelReader\ExcelReader\bin\Debug\ExcelReader.exe
+C:\Users\AndresS\source\repos\ExcelReader\ExcelReader\obj\Debug\ExcelReader.exe
+C:\Users\AndresS\source\repos\ExcelReader\ExcelReader\bin\Debug\ICSharpCode.SharpZipLib.dll
+\\segvml088\Code\Component Library\ExcelReader\ExcelReader\bin\Debug\ExcelReader.pdb
+\\segvml088\Code\Component Library\ExcelReader\ExcelReader\bin\Debug\ICSharpCode.SharpZipLib.dll
+\\segvml088\Code\Component Library\ExcelReader\ExcelReader\bin\Debug\LumenWorks.Framework.IO.xml
+\\segvml088\Code\Component Library\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csprojAssemblyReference.cache
+\\segvml088\Code\Component Library\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csproj.CopyComplete
+\\segvml088\Code\Component Library\ExcelReader\ExcelReader\obj\Debug\ExcelReader.pdb
+\\segvml088\Code\Component Library\ExcelReader\ExcelReader\bin\Debug\ExcelReader.exe
+\\segvml088\Code\Component Library\ExcelReader\ExcelReader\obj\Debug\ExcelReader.exe
